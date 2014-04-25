@@ -1,0 +1,7 @@
+Project purpose: provide a set of tools for managing a collection of media files
+
+Goal:
+	For each media collection, calculate statistics about it.
+	Provide tools for the media collection management:
+		- cleanup
+		- organization
